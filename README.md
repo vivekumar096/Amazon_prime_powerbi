@@ -1,4 +1,4 @@
-# Amazon_prime_powerbi
+# Amazon_prime_powerBI
 
 In this project, we have extensively used various tools, functionality of POWER-BI. Here, we have taken the dataset of AMAZON PRIME VIDEO from the caggle datasets. 
 Here is the link to download that datasets:- https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows
