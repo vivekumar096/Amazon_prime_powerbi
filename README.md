@@ -5,7 +5,7 @@ Here is the link to download that datasets:- https://www.kaggle.com/datasets/shi
 
 <img width="604" alt="Screenshot 2024-08-09 164906" src="https://github.com/user-attachments/assets/1397b383-0f7e-4686-a800-a0e7f582d4d2">
 
-Above is the preview of the the power-bi page that we have created from the given datasets. This helps to visualize various features like:-
+Above is the preview of the the power-bi dashboard that we have created from the given datasets. This helps to visualize various features like:-
 1. Horizontal bar graph Ratings by total shows
 2. Horizontal bar graph of Genres by total shows
 3. Map of Total shows by country
